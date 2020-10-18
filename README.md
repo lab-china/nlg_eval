@@ -11,4 +11,13 @@ yu_shenglong@ines.co.jp
 
 
 ```
+
+```
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3A485f71b8e9c44442b8629759e009c39c%40thread.skype%2F1591755787398%3Fcontext%3D%257b%2522Tid%2522%3A%2522a1639a9a-907b-4609-ab03-5a693f8f1a42%2522%252c%2522Oid%2522%3A%2522615fdde2-825d-47b9-a5f3-1b1eb8d8d22e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b2e6d9b0-78c9-408f-aece-abe2961dc5fc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+
+
+```
 https://teams.microsoft.com/l/meetup-join/19:485f71b8e9c44442b8629759e009c39c%40thread.skype/1591755787398?context=%7b%22Tid%22:%22a1639a9a-907b-4609-ab03-5a693f8f1a42%22%2c%22Oid%22:%22615fdde2-825d-47b9-a5f3-1b1eb8d8d22e%22%7d
+
+
+```
