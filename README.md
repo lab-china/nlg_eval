@@ -17,5 +17,5 @@ https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-j
 ```
 
 ```
-https://teams.microsoft.com/l/meetup-join/19:485f71b8e9c44442b8629759e009c39c%40thread.skype/1591755787398?context=%7b%22Tid%22:%22a1639a9a-907b-4609-ab03-5a693f8f1a42%22%2c%22Oid%22:%22615fdde2-825d-47b9-a5f3-1b1eb8d8d22e%22%7d
+\\zk091fc2\work\AI相談パートナー\ガイダンス表示\日本語word2vec調査_作成中 .xlsx
 ```
