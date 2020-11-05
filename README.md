@@ -1,3 +1,14 @@
+```
+zoom meeting 2020/11/6 13:15
+https://zoom.us/j/93894301684?pwd=b0lDUFVVbGpVYmlFQnFBMTBZZkh2UT09
+
+\\zk091fc2\work\AI相談パートナー\ガイダンス表示\0000_gloveModel
+glove_vectors_50d.model.bin
+glove_vectors_100d.model.bin
+ワードベクトル化関連モデルの調査20201028.xlsx
+  シート：06_GloVeでガイダンス類語生成,07_GloVeガイダンス類語生成と他のモデル比較,08_評価
+```
+
 # nlg_eval
 ```
 ■https://slack.com/intl/ja-jp/
