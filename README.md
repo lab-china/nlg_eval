@@ -1,4 +1,8 @@
 ```
+minato_test_user_001
+P@ssw0rd
+
+
 zoom meeting 2020/11/6 13:15
 https://zoom.us/j/93894301684?pwd=b0lDUFVVbGpVYmlFQnFBMTBZZkh2UT09
 
