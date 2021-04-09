@@ -1,4 +1,8 @@
 ```
+定例会議：金 13.15 https://zoom.us/j/91399532452?pwd=MVM5TFRhT0RwOWJDME9VQy9wM25EZz09
+ミーティングID: 913 9953 2452
+パスコード: 533297
+
 minato_test_user_001
 P@ssw0rd
 
